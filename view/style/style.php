@@ -27,7 +27,7 @@ hr {
   }
   
 .firstCol {
-    margin-left: 28%;
+    margin-left: 19%;
   }
   
 .navBar:hover {
@@ -73,4 +73,14 @@ a:hover {
   display: table-cell;
   vertical-align: middle;
   width: 200px;
+}
+.paypal{
+  width: 400px;
+  height: auto;
+  display: block;
+  display: block;
+  margin-left: 85%;
+  margin-right: auto;
+  margin-top: 10px;
+  margin-bottom: 10px;
 }

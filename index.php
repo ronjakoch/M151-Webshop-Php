@@ -57,6 +57,9 @@ if (isset($_GET['logout'])) {
             <div class="col-sm-2">
             <p class="nav-link navBar" aria-current="page"><a href="view/products.php?logout='1'">Logout</a></p>
             </div>
+            <div class="col-sm-2">
+            <p class="nav-link navBar" aria-current="page"><a href="view/donations.php">Donations</a></p>
+            </div>
             <?php else : ?>
             <div class="col-sm-2">
                 <p class="nav-link navBar" aria-current="page"><a href="view/login.php">Login</a></p>

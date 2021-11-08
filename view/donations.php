@@ -77,11 +77,14 @@ if (isset($_GET['logout'])) {
         </div>
     </div>
 
-  <?php
 
-  require_once '../model/productlist.php';
+    <div class="row">
+        <div class="col-sm-5">
+             <img src="img/paypal/paypal.png" class="paypal" alt="Paypal-QR">
+        </div>
+    </div>
 
-  ?>
+
 
   <footer class="">
     <div class="footer-copyright text-center py-3 bg-light">© 2021 Copyright:
